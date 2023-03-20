@@ -29,4 +29,4 @@
 </div>
 
 ### :fire: Languages stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mszhdgr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamedatef2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
