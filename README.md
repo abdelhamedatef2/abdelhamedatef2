@@ -11,7 +11,7 @@
   </a>
 </div>
 
-# 👋 Hi, I'm Mido.
+# 👋 Hi, I'm Abdelhamed Atef.
 ## 🌱 I’m currently learning Software Engineering at ALX Africa.
 
 
