@@ -34,14 +34,3 @@
 ### :fire: Languages stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamedatef2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabdelhamedatef2&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/abdelhamedatef2?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/abdelhamedatef2?tab=repositories) |
-|:-:|:-:|
-
-<p align="center">
-	<img alt="abdelhamedatef2's visitors" src="https://komarev.com/ghpvc/?username=abdelhamedatef2&color=8c36db&style=flat&label=visitors" />
-	<img alt="abdelhamedatef2's followers" src="https://img.shields.io/github/followers/abdelhamedatef2?color=blueviolet" />
-	<img alt="abdelhamedatef2's stars" src="https://img.shields.io/github/stars/abdelhamedatef2?color=blueviolet" />
-</p>
-
----------------
